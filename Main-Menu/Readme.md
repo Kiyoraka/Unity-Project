@@ -12,7 +12,7 @@ Configuring Buttons:
 2. In your Unity project, select the buttons intended for your main menu.
 Drag these buttons into the corresponding fields in the script inspector. This links your buttons to the menu, enabling navigation functionality.
 
-##C ustomization
+## Customization
 
 1. After integrating the buttons, you can customize the menu's appearance and behavior to align with your game's design.
 
