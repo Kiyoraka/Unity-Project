@@ -5,12 +5,12 @@ This repository hosts a script specifically designed for creating a Simple 2D Ma
 
 ## Installation
 1. Adding the Script to Your Project:
-  * Drag the Simple2DMainMenu.cs script into an Empty Game Object within your Unity project's hierarchy.
-  * This step sets up the foundational structure for your main menu.
+   * Drag the Simple2DMainMenu.cs script into an Empty Game Object within your Unity project's hierarchy.
+   * This step sets up the foundational structure for your main menu.
 
 2. Configuring Buttons:
-  * In your Unity project, select the buttons intended for your main menu.
-  * Drag these buttons into the corresponding fields in the script inspector. This links your buttons to the menu, enabling navigation functionality.
+   * In your Unity project, select the buttons intended for your main menu.
+   * Drag these buttons into the corresponding fields in the script inspector. This links your buttons to the menu, enabling navigation functionality.
 
 ## Customization
 
