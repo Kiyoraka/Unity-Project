@@ -16,9 +16,6 @@ public class MainMenu : MonoBehaviour
 
         // Add a listener to the Close button which will call the 'CloseGame' method when clicked
         CloseButton.onClick.AddListener(CloseGame);
-
-        //Automatically Set the player name when the main menu is loaded
-        Database.SetPlayerName("Player 1");
     }
 
     void LoadGameScene()
