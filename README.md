@@ -1,7 +1,7 @@
 # Unity-Project
 ## The Collection of code for Unity Project
 
-1. MAIN MENU
-2. LOADING SCREEN
-3. LEVEL SELECTION
+1. Main Menu
+2. Loading Screen
+3. Level Selection
 5. PLACEHOLDER
